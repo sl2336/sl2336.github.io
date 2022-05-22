@@ -3,4 +3,4 @@ title: "Projects"
 layout: page
 ---  
 
-GitHub Link: https://github.com/sl2336
+[GitHub](https://github.com/sl2336)
